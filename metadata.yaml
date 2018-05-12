@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36541#Unto-This-Last-and-Other-Essays-on-Political-Economy
 gutenberg_issued: '2011-06-27'
 gutenberg_type: Text
 identifiers:
